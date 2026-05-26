@@ -1,0 +1,19 @@
+REVISAO_BANCADA_FRANGO_FRITO_BRASIL
+
+Bancada aplicada:
+- Diretor comercial B2B
+- Especialista em delivery/restaurantes
+- Marketing de relacionamento
+- UX/UI mobile-first
+- Diretor de arte digital
+- Jurídico-operacional
+- Financeiro comercial
+
+Decisões:
+1. Proposta não crava escala definitiva, pois não há relatório fechado.
+2. Modelo inicial segue informação recebida: 1 parceiro segunda a quinta, 2 parceiros sexta a domingo.
+3. Plano indicado: Básico R$ 699.
+4. Tabelas por km vão somente até 10 km em rota.
+5. Contrato oculto por falta de dados formais.
+6. Hero curto: “Frango quente pede entrega no tempo certo.”
+7. Solução clara: agenda digital, suporte humano, ajuste de cobertura e fechamento organizado.
